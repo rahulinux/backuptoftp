@@ -1,4 +1,4 @@
-#!/usr/bin/evn bash
+#!/usr/bin/env bash
 #----------------------------------------------------------------------------
 # Name :- ftpbkp.sh v 0.1 Copyright (c) 20013-2014
 # Pupose :- Uploading Backup files to FTP Server
